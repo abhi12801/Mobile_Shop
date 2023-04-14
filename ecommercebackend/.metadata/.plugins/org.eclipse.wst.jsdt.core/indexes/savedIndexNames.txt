@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+C:\Users\abhishekbhardwaj02\Desktop\assignment\ECommerce-Angular-Spring-master11\ECommerce-Angular-Spring-master\ecommercebackend\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+332815139.index
+4152118526.index
+1920938208.index
+2369450729.index

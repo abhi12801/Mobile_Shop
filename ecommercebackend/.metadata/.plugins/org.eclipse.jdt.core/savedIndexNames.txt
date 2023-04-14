@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\abhishekbhardwaj02\Desktop\assignment\ECommerce-Angular-Spring-master11\ECommerce-Angular-Spring-master\ecommercebackend\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2755716262.index
+1067094681.index
